@@ -279,6 +279,7 @@ THESE MATERIALS ARE PROVIDED “AS IS.” The parties expressly disclaim any war
 
 - [CarbonTag: A browser-based method for approximating energy consumption of online ads](https://arxiv.org/abs/2211.00071)
 - [Quantifying Carbon Emissions due to Online Third-Party Tracking](https://arxiv.org/abs/2304.00927)
+- [Energy Patterns for Web: An Exploratory Study](https://arxiv.org/abs/2401.06482)
 
 ## Contribute
 
